@@ -1,7 +1,7 @@
-# bobo-ackerman
+
 ## 👋 Hi there! I'm Nour Allam  
 🎓 Computer Engineering Student | Aspiring Developer
-
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 I'm passionate about learning how software and hardware work together to solve real-world problems. I enjoy experimenting with code, troubleshooting systems, and building my skills one project at a time.
 
 ---
